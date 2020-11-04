@@ -15,9 +15,9 @@ To start playing type the command <code>!play</code>. It will create a new villa
 ## Resources
 
 Theres 3 key resources in the game:
--wood
--clay
--rion
+<p>-wood</p>
+<p>-clay</p>
+<p>-iron</p>
 
 You automatically gain all 3 resources at all times. The higher your timber camp, claypit or iron mine level is the more resources you get.
 
