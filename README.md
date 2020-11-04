@@ -10,7 +10,7 @@ The goal of the game is to build up your village, build troops and raid other vi
 
 ## Start
 
-To start playing type the command !play. It will create a new village with 300 clay, 300 clay and 300 iron. It also comes with pre-built buildings that are required to play the game.
+To start playing type the command <code>!play</code>. It will create a new village with 300 clay, 300 clay and 300 iron. It also comes with pre-built buildings that are required to play the game.
 
 ## Resources
 
@@ -19,23 +19,25 @@ Theres 3 key resources in the game:
 -clay
 -rion
 
-You automatically gain all 3 of these resources at all times. The higher your timber camp, claypit or iron mine is the more resources do you get.
+You automatically gain all 3 resources at all times. The higher your timber camp, claypit or iron mine level is the more resources you get.
 
-Aise from these resources theres also the population. Upgrading Buildings and recruiting units for your troops will increase your total population.
+Aside from these resources theres also the population which is calculated by your farm level. Upgrading Buildings and recruiting units for your troops will increase your total population. When your maximum population is reached you can no longer build or recruit units.
 
 ## Building
 
 In order to build you first need to figure out what you wanna build. It is recommended to upgrade timber camp, claypit and ironmine a lot in the beginning to get more resources.
 
-With the command !build building you can upgrade a building.
+The command <code>!buildinfo</code> shows you all available upgrades and their cost.
+
+With the command <code>!build building</code> you can upgrade a building. Once the upgrade started it will take some to complete. The build duration depend the level of the building and your HQ level. If your HQ level is higher, you can build faster.
 
 ### The Buildings
 
-Use the command !buildings to see all buildings and what they do.
+Use the command <code>!buildings</code> to see all buildings and what they do.
 
 ## Recruiting
 
-Once you have unlocked(Level 3 HQ) and built barracks you get access to units. You can recruit units by typing !recruit unitname amount. Keep in mind each unit has a value for attack and defense. You can find out more about units with the command !units.
+Once you have unlocked and built barracks(Level 3 HQ) you get access to units. You can recruit units by typing <code>!recruit unitname amount</code>. Keep in mind each unit has a value for attack and defense. You can find out more about units with the command <code>!units</code>.
 
 ### TBA 
 
