@@ -4,7 +4,7 @@ This is a small tutorial for the discord bot "Traits of War".
 
 For questions: Kiba#7956
 
-### Markdown
+### Goal
 
 The goal of the game is to build up your village, build troops and raid other villages.
 
