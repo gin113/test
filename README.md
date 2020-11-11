@@ -31,7 +31,7 @@ Theres 3 key resources in the game:
 <p>-clay</p>
 <p>-iron</p>
 
-You automatically gain all 3 resources at all times. The higher your timber camp, claypit or iron mine level is the more resources you get. To see your resources type !village.
+You automatically gain all 3 resources at all times. The higher your timber camp, claypit or iron mine level is the more resources you get. To see your resources type <code>!village</code>.
 
 <img width="400" src="https://i.imgur.com/3PPxYZP.png">
 
@@ -68,7 +68,7 @@ You can attack other players by mentioning or using their Disocrd-ID. Before you
 
 ### Preparing the Attack
 
-With the command !rally you can select troops that you wanna send to the attackcamp. Those troops will get used to in your next attack.
+With the command <code>!rally</code> you can select troops that you wanna send to the attackcamp. Those troops will get used to in your next attack.
 
 <img width="400" src="https://i.imgur.com/87FJjJk.png">
 
@@ -81,6 +81,7 @@ If you win the attack your haul gets calcualted by the amount of troops that sur
 All attacking troops will die if you lose the attack.
 
 ## Defending
-Your village has a basic defense that will will protect you from small attacks. Their are specific defense units that exceed at defense. Your combined troops defense value(not the ones that are in the attack camp currently) will result in your defense. These defenses then get boosted by roughly 4% per wall level. 100 defense will turn into 104 defense with a level 1 wall.
+
+Your village has a basic defense that will will protect you from small attacks. Their are specific defense units that exceed at defense. Your combined troops defense value(not the ones that are in the attack camp currently) will result in your defense. These defenses then get boosted by roughly 4% per wall level(see your village overview). 100 defense will turn into 104 defense with a wall level 1 wall.
 
 To move your troops from the attackcamp backt to the village in order to defend you can use <code>!defense</code>.
