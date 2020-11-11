@@ -7,7 +7,7 @@
 
 
 <p align="center">
-This is a small tutorial for the discord bot "Traits of War".
+This is a small tutorial for the discord bot "Traits of War", inspired by the old school browser game "Tribal Wars".
 </p>
 
 <p align="center">
