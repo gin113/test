@@ -1,4 +1,6 @@
-## Traits of War Tutorial
+# Traits of War Tutorial
+
+![ToW Logo](https://i.imgur.com/0sgNizi.png)
 
 This is a small tutorial for the discord bot "Traits of War".
 
@@ -37,8 +39,27 @@ Use the command <code>!buildings</code> to see all buildings and what they do.
 
 ## Recruiting
 
-Once you have unlocked and built barracks(Level 3 HQ) you get access to units. You can recruit units by typing <code>!recruit unitname amount</code>. Keep in mind each unit has a value for attack and defense. You can find out more about units with the command <code>!units</code>.
+Once you have unlocked and built barracks(Level 3 HQ) you get access to your first unit the spear fighter. You can recruit units by typing <code>!recruit unitname amount</code>. Keep in mind each unit has a value for attack and defense. You can find out more about units with the command <code>!units</code>.
 
-### TBA 
+## Attacking
+
+You can attack other players by mentioning or using their Disocrd-ID. Before you attack though, you need to select your units that you wanna use for your attack. once you start the attack it will calculate the duration for the attack based on the cordinates of both villages. Only the attack value of each unit matters for attacking.
+
+By attacking you can gain resources. For every resource
+
+### Preparing the Attack
+
+With the command !rally you can select troops that you wanna send to the attackcamp. Those troops will get used to in your next attack.
+
+### Winning the Attack
+
+If you win the attack your haul gets calcualted by the amount of troops that survived. Keep in mind that each unit has a different haul capacity. You can only loot as much as your enemy has resources.
+
+### Losing the Attack
+
+All attacking troops will die if you lose the attack.
+
+## Defending
+Your village has a basic defense that will will protect you from small attacks. Their are specific defense units that exceed at defense. Your combined troops defense value(not the ones that are in the attack camp currently) will result in your defense. These defenses then get boosted by roughly 4% per wall level. 100 defense will turn into 104 defense with a level 1 wall.
 
 
