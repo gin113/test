@@ -72,6 +72,8 @@ With the command <code>!rally</code> you can select troops that you wanna send t
 
 <img width="400" src="https://i.imgur.com/87FJjJk.png">
 
+You can also attack NPC-Vilalges with <code>!attack barbarian</code>.
+
 ### Winning the Attack
 
 If you win the attack your haul gets calcualted by the amount of troops that survived. Keep in mind that each unit has a different haul capacity. You can only loot as much as your enemy has resources.
